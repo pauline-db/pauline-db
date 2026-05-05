@@ -1,5 +1,15 @@
-## Hi there 👋
+# Hi, I'm Pauline :)
 
+I'm a Microengineering student at EPFL with who is particularly interested in embedded systems, robotics, machine learning and Rocketry.
+
+My work here focuses on projects where software meets physical systems: microcontroller programming, mechanical prototyping, CAD design, electronics, and applied machine learning. I have worked on projects ranging from a full AVR assembly Pac-Man style game to rocket recovery mechanisms, force sensor design, and radar-based hand gesture recognition. I mainly use C++/C/python/AVR but some of my projects use other programming languages such as SQLite. 
+
+I've also worked on some more hands-on/mechanical projects involving Rocketry such as a compact pyrotechnic device using an e-match–triggered charge and a guided blade to cut high-strength Dyneema reefing lines, triggering the second phase of the rocket’s descent.
+
+I use this GitHub to share my engineering projects, document what I build, and keep track of the progress I make :) 
+
+Feel free to check out my work and reach out to me if you have any questions ;)
+****
 <!--
 **pauline-db/pauline-db** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
